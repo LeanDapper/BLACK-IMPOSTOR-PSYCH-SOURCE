@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "firstDeath",
+			"indices": [
+				6,
+				7
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "blackdeathlol",
+	"position": [
+		195,
+		590
+	],
+	"healthicon": "black",
+	"flip_x": true,
+	"healthbar_colors": [
+		40,
+		20,
+		20
+	],
+	"camera_position": [
+		-20,
+		-140
+	],
+	"sing_duration": 10,
+	"scale": 1
+}

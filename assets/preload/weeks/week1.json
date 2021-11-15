@@ -1,0 +1,39 @@
+{
+	"storyName": "he is not what he seems to be anymore",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Victory",
+			"victoryblack",
+			[
+				120,
+				240,
+				255
+			]
+		],
+		[
+			"Deception",
+			"black",
+			[
+				166,
+				13,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "blackimpweek"
+}

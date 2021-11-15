@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Endless",
+			"victoryblack",
+			[
+				0,
+				160,
+				213
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "filler (not canon)",
+	"weekName": "blackimpbonus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "week1",
+	"startUnlocked": true
+}
